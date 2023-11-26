@@ -22,11 +22,9 @@ Follow these steps to get your development environment running:
 
 2. **Navigate to the Project Directory in Terminal**
 
-3. **Install Dependencies**
-`npm install`
+3. **Install Dependencies** using `npm install`
 
-4. **Start the Server**
-`npm start`
+5. **Start the Server** using `npm start`
 
 ### Using the API
 

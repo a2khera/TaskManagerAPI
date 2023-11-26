@@ -1,0 +1,17 @@
+{
+  "name": "task-manager-api",  
+  "version": "1.0.0",
+  "description": "A simple Task Management API built with Node.js and Express.",  
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["task", "management", "API", "Node.js", "Express"],
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
